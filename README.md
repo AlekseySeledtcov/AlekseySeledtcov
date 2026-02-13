@@ -10,11 +10,14 @@
 
 ## Навыки и инструменты
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:github-stats-->
-<!--END_SECTION:github-stats-->
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-4EC823?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge" alt="Maven">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" alt="Hibernate">
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit&logoColor=white&style=for-the-badge" alt="JUnit">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+</div>
 
 * **Языки программирования:** Java
 * **Сборка и управление зависимостями:** Apache Maven
