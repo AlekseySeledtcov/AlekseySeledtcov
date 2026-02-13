@@ -10,6 +10,9 @@
 
 ## Навыки и инструменты
 
+<!-- STACK-TABLE:START -->
+<!-- STACK-TABLE:END -->
+
 * **Языки программирования:** Java
 * **Сборка и управление зависимостями:** Apache Maven
 * **ORM:** Hibernate
