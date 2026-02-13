@@ -10,13 +10,17 @@
 
 ## Навыки и инструменты
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-4EC823?logo=java&logoColor=white&style=for-the-badge" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge" alt="Maven">
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge" alt="Apache Maven">
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" alt="Hibernate">
-  <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit&logoColor=white&style=for-the-badge" alt="JUnit">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/MapStruct-FF6D00?logo=mapstruct&logoColor=white&style=for-the-badge" alt="MapStruct">
+  <img src="https://img.shields.io/badge/Mockito-8646B1?logo=mockito&logoColor=white&style=for-the-badge" alt="Mockito">
+  <img src="https://img.shields.io/badge/Algorithms%20&%20Data%20Structures-4A968F?logo=data&logoColor=white&style=for-the-badge" alt="Algorithms & Data Structures">
+  <img src="https://img.shields.io/badge/Integration%20Testing-2E8B57?logo=testing-library&logoColor=white&style=for-the-badge" alt="Integration Testing">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
 </div>
 
 * **Языки программирования:** Java
