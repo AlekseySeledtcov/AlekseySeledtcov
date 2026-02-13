@@ -1,0 +1,19 @@
+name: Update Stack Table
+
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *' # Запуск раз в день
+  workflow_dispatch:
+
+jobs:
+  update-stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Stack Table
+        uses: profile-stack/profile-stack@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
