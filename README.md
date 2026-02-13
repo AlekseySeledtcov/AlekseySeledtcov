@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Algorithms%20&%20Data%20Structures-4A968F?logo=data&logoColor=white&style=for-the-badge" alt="Algorithms & Data Structures">
   <img src="https://img.shields.io/badge/Integration%20Testing-2E8B57?logo=testing-library&logoColor=white&style=for-the-badge" alt="Integration Testing">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit&logoColor=white&style=for-the-badge" alt="JUnit">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot">
 </div>
