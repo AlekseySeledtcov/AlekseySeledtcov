@@ -10,8 +10,11 @@
 
 ## Навыки и инструменты
 
-<!-- STACK-TABLE:START -->
-<!-- STACK-TABLE:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:github-stats-->
+<!--END_SECTION:github-stats-->
 
 * **Языки программирования:** Java
 * **Сборка и управление зависимостями:** Apache Maven
