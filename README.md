@@ -26,13 +26,10 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot">
 </div>
 
-## Мои проекты
-
-### «Афиша» - сервис позволяющий предлагать события и собирать компанию для совместного время препровождения (микросервисное приложение).
-
 ## Как со мной связаться
 
 * Telegram: [@ozTeer](https://t.me/ozTeer)
+* Email: Alex-ozu@yandex.ru
 
 ## Статус поиска работы
 
