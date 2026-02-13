@@ -1,0 +1,22 @@
+
+technologies:
+  - name: Java
+    icon: java
+    description: Основной язык разработки
+  - name: Spring Boot
+    icon: spring
+    description: Фреймворк для создания веб‑приложений
+  - name: Hibernate
+    icon: hibernate
+    description: ORM для работы с БД
+  - name: Maven
+    icon: apache-maven
+    description: Инструмент сборки
+
+projects:
+  - name: Проект 1
+    technologies: [Java, Spring Boot]
+    url: https://github.com/username/project1
+  - name: Проект 2
+    technologies: [Java, Hibernate, Maven]
+    url: https://github.com/username/project2
